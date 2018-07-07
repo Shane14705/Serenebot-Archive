@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#Personal Bot Files:
+botrefresh.sh
+customcommands
+permissions.json
